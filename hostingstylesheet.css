@@ -44,3 +44,20 @@ table, th, td {
    color: white;
    text-align: center;
 }
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: white;
+
+}
+a:hover {
+  color: white;
+
+}
+a:active {
+  color: white;
+
+}
